@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Chris"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Professional shitposter. Would-be unemployed. I have no idea what kind of sicko is actually reading this stuff."
+  bio              : "I have no idea what kind of sicko is actually reading this stuff."
   location         : "Netherlands"
   email            : "info@chris.ist"
   links:
@@ -286,10 +286,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      # read_time: true
       comments: # true
       share: true
-      related: true
+      # related: true
   # _pages
   - scope:
       path: ""
