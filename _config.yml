@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Chris Ist"
 title_separator          : "-"
-subtitle                 : "Save me from this wretched place." # site tagline that appears below site title in masthead
+subtitle                 : "Do you expect me to figure this out???" # site tagline that appears below site title in masthead
 name                     : "Chris"
-description              : "Chris Ist is a quirked up blog with a little bit of swag"
+description              : "Chris Ist is my personal blog with all kinds of fun and quirky content"
 url                      : "https://www.chris.ist" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Chris"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just your average techie."
+  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Professional shitposter. Would-be unemployed. I have no idea what kind of sicko is actually reading this stuff."
   location         : "Netherlands"
   email            : "info@chris.ist"
   links:
