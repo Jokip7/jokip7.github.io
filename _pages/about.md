@@ -1,6 +1,6 @@
 ---
 title: "About me"
-excerpt: "About me"
+excerpt: "About"
 sitemap: false
 permalink: /about
 ---
