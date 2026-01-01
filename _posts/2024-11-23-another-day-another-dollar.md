@@ -1,7 +1,7 @@
 ---
 title: Another day another dollar
 header:
-    teaser: /assets/images/forest.jpeg
+    teaser: /assets/images/coin.png
 ---
 
 It has been over ten months since I wrote for this blog.
@@ -23,7 +23,7 @@ Rise from irrelevance. As evidence of my worth.
 
 But that's neither here nor there. For now, I am content with writing something short. Another meta piece! **\[Crowd jeering in the background\]**
 
-<a id='rM9QaT5fQlB8sGW7Wrk8XQ' class='gie-single' href='http://www.gettyimages.com/detail/200244723-011' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'rM9QaT5fQlB8sGW7Wrk8XQ',sig:'dlIwvMN_pMNkoglc77Dfiy6l0FEYkjIFm923Nhk7zQg=',w:'478px',h:'359px',items:'200244723-011',caption: 'true' ,tld:'com',is360: false })});Test</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script> <br> *Average Chris Ist reader*
+<a id='8gZavpaWQSh2ynqzqkSV4Q' class='gie-single' href='https://www.gettyimages.com/detail/200244723-011' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'8gZavpaWQSh2ynqzqkSV4Q',sig:'sytVvVxfMGoIm9axF2pS0tnciqInepHtjP7yPLCQIFg=',w:'478px',h:'359px',items:'200244723-011',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script> <br> *Average Chris Ist reader*
 
 I have some ideas for future posts I want to enumerate.
 
