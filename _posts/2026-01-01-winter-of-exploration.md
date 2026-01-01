@@ -1,7 +1,7 @@
 ---
 title: Winter of Exploration
 header:
-    teaser: /assets/images/sun.
+    teaser: /assets/images/sun.png
 ---
 
 As every westerner under the sun I've dabbled in New Year's Resolutions in the past.
