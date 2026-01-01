@@ -11,9 +11,9 @@ And while some good came of these goals, they were usually a failure. I didn't m
 The idea of these resolutions is so very enticing. If I could just do _xyz_, my life'd be perfect. The clockwork would be set in motion. And it'd tick in blissful resonance until the end of days.
 But I think that is why these resolutions fail. They are too rigid. They are incompatible with a shifting life and perspective.
 
-Then, one day, I stumbled upon a [CGP Grey video about themes](https://www.youtube.com/watch?v=NVGuFdX5guE).
+At some point I stumbled upon a [CGP Grey video about themes](https://www.youtube.com/watch?v=NVGuFdX5guE).
 CGP Grey puts forth his alternative for New Year's Resolutions, years of themes.
-Instead of picking a rigid goal (I will do _x_, _y_ number of times by _z_) you pick a theme. A broad, generally applicable theme.
+Instead of picking a rigid goal (I will do _x_, _y_ number of times by _z_), you pick a theme. A broad, generally applicable theme.
 This theme can change with you, shape itself to your life. Instead of a New Year's Resolution - go to the gym 3 times per week every week of the year - you pick a broad theme, like 'Year of Health'.
 I was quite smitten with this idea! I've tried it in 2025 with good results. It was my Year of Fitness, as a result I went outside a lot more, tried going to the gym, rode my bike a bunch, went on hikes, etc.
 In hindsight, 'Fitness' was probably too specific a theme, but that's a story for another time.
